@@ -1,1 +1,2 @@
 # Hibernate-learn
+Hibernate is a powerful, high-performance Object-Relational Mapping (ORM) framework for Java. It simplifies data handling by mapping Java classes to database tables and Java data types to SQL data types. Hibernate handles complex database interactions, providing features such as lazy loading, caching, and transaction management. This repository contains all the hibernate features that I learn in Hibernate FrameWork.  
